@@ -12,3 +12,4 @@ if (preg_match($reg_dom, $arr[$i], $matches))
 else
     echo "$arr[$i] - invalid";
 }
+
